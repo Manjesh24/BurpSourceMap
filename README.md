@@ -1,4 +1,4 @@
-# BurpSuite SourceMap
+# BurpSuite JS Map Hunter
 
 Introducing a Burp Extension for Parsing JavaScript Source Maps.
 
